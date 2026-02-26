@@ -1,2 +1,8 @@
 # super-trunfo-paises2
-Projeto do jogo Super Trunfo de Países em C. Segunda versão.
+
+## 📋 Descrição
+Jogo Super Trunfo desenvolvido em C com 3 níveis de complexidade, utilizando estruturas de decisão.
+
+## 🚀 Como Compilar
+```bash
+gcc super_trunfo.c -o super_trunfo
